@@ -18,9 +18,9 @@
 // Input: 
 // n = -2
 // ["call","call","call","call","call"]
-// Output: [-2,-1,0,1,2]
+// Output: [-2,-1,0,1,2]dw
 // Explanation: counter() initially returns -2. Then increases after each sebsequent call.
-
+//  thi sone is the second start
 function createCounter(initialValue){
     let count = initialValue
     return function(){
