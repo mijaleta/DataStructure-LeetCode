@@ -1,3 +1,5 @@
+// adding two equal arrays 
+
 function addTwoArray(arr1, arr2){
 let result = [];
 for(i=0; i<arr1.length; i++){

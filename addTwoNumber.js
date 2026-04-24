@@ -1,3 +1,5 @@
+// adding two numbers 
+
 function addTwo(a, b) {
   return a + b;
 }
