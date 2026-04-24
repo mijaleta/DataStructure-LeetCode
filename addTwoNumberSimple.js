@@ -1,7 +1,7 @@
-function addTwo(a,b){
-return (a+b)
+function addTwo(a, b) {
+  return a + b;
 }
 
-let result = addTwo(3,4)
+let result = addTwo(3, 4);
 
-console.log("The result of the two number is "+ result);
+console.log("The result of the two number is " + result);
