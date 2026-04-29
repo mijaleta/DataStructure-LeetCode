@@ -7,3 +7,5 @@ function createCounter(initialValue) {
 const counter = createCounter(1);
 console.log(counter());
 console.log(counter());
+console.log(counter());
+console.log(counter());

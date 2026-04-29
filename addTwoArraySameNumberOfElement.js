@@ -11,5 +11,6 @@ let  result1 = addTwoArray([1,2], [3,4]);
 
 console.log("  The result of the arrays is " + result1);
 console.log("  The result of the arrays is " + result1);
+console.log("  The result of the arrays is " + result1);
 
 

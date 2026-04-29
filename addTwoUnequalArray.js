@@ -1,5 +1,5 @@
 // adding two unequal arrays 
-
+// this one is the additon of the two array 
 function addUnequalArrays(arra1, array2) {
   let result = [];
   let maxLength = Math.max(arra1.length, array2.length);
