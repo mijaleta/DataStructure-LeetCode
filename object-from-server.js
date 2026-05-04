@@ -11,7 +11,7 @@ const products = {
 // ]
 
 Object.entries(products).map(([id, product]) => {
-  console.log(id);           // id1, id2
+  console.log(id);           // id1, id2a
   console.log(product);      // { name: "Apple" }, { name: "Spinach" }
   console.log(product.name); // Apple, Spinach
 });
