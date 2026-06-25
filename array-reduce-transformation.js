@@ -16,7 +16,7 @@
 var reduce = function(nums, fn, init) {
     let val = init;
     for (let num of nums) {
-        val = fn(val, num);
+        val = fn(val, num); 
     }
     return val;
 };
