@@ -1,1 +1,2 @@
 there is no char type isndie the python. the char type is string it means the string with one character
+in and  not in === are used for the existence ot non existence of a stirng isndie the given stirng 
