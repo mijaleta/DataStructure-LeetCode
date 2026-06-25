@@ -1,0 +1,1 @@
+there is no char type isndie the python. the char type is string it means the string with one character
