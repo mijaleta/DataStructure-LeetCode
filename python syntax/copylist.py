@@ -1,4 +1,4 @@
-# the following is for copying of the list to the new list to the next one 
+# copy the list using on e of the following copy, list or :
 
 
 names =[
