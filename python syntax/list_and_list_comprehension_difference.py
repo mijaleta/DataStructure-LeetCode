@@ -38,4 +38,4 @@ mix_of_number_and_letter = ['m', '1', 'f']
 
 only_letter = [name if name != '1' else "not letter" for name in mix_of_number_and_letter]
 
-print(only_letter)
+print(only_letter)  
