@@ -8,5 +8,12 @@ names =[
 ]
 
 
-nameFinal = names.copy()
+nameUsingTheCopy = names.copy()
 print(names)
+
+nameUsingList = list(names)
+print("The following is using the 'list' method ", nameUsingList)
+
+nameUsingTheThridAbove = names[:]
+
+print("the following is using the  : for the copying of the list ", nameUsingTheThridAbove)
